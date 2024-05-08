@@ -10,10 +10,6 @@ public class BMICalculator {
         System.out.println("Height: " + height_in_meters);
         double bmi = weight_in_kilo / (height_in_meters * height_in_meters);
         System.out.println("BMI is: " + bmi);
-
-
-
-
     }
         }
 
