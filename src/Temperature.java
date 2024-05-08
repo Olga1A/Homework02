@@ -7,7 +7,7 @@ public class Temperature {
         double degrees_Fahrenheit = 67.82;
         System.out.println("Temp is " + degrees_Fahrenheit + " Fahrenheit degrees");
         double temperature_calculation = ((9 / 5) * 25.5 + 32);
-System.out.println("Temp calculation is " + temperature_calculation + " in Fahrenheit degrees");
+        System.out.println("Temp calculation is " + temperature_calculation + " in Fahrenheit degrees");
         }
     }
 

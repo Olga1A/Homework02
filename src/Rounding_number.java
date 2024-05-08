@@ -11,11 +11,5 @@ public class Rounding_number {
         System.out.println(a);
         int b = (int)7.9;
         System.out.println(b);
-
-
-
-
-
-
     }
 }
